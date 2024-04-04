@@ -1,16 +1,23 @@
 #9
-print('Pertenece al sistema de pension')
-pension = str(input())
-print('Eres Jubilado')
-jubilado = str(input())
 print('Digitar Año de nacimiento')
 año_nacimiento = int(input())
 año_actual = 2024
 edad = año_actual-año_nacimiento
-
-if edad > 17 or jubilado == 'si' or jubilado == 'Si' or pension == 'si' or pension == 'Si':
-    print('Debe sacar su CUIL')
-    print(f'La edad es: {edad}')
+if edad < 17 :
+    print('No Debe sacar (CUIL)')
+    print(f'su edad es {edad} Años')
 else:
-     print('No Debe sacar su CUIL')
-     print(f'La edad es: {edad}')
+    print('pertenece al sistema integrado de jubilacion y pension?')
+    sistema_integrado = str(input())
+    if sistema_integrado == 'si' or sistema_integrado == 'Si':
+        print('Debe sacar (CUIL)')
+        print(f'su edad es {edad} Años')
+    else:
+        print('Realiza alguna prestacion de servicio de la seguridad social de la republica?')
+        ser_social = str(input())
+        if ser_social == 'si' or ser_social == 'Si':
+            print('Debe sacar (CUIL)')
+            print(f'su edad es {edad} Años')
+        else:
+            print(f'su edad es {edad} Años')
+            print('No Debe sacar (CUIL)')

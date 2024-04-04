@@ -1,23 +1,12 @@
 #10
-print('Digitar Año de nacimiento')
-año_nacimiento = int(input())
-año_actual = 2024
-edad = año_actual-año_nacimiento
-if edad < 17 :
-    print('No Debe sacar (CUIL)')
-    print(f'su edad es {edad} Años')
+print('Digitar Edad de Hermano #1')
+edad_1 = int(input())
+print('Digitar Edad de Hermano #2')
+edad_2 = int(input())
+
+if edad_1 > edad_2:
+    diferencia = edad_1 - edad_2
+    print(f'El Hermano mayor es #1 con {edad_1} Años la diferencia es de {diferencia} Años con el segundo')
 else:
-    print('pertenece al sistema integrado de jubilacion y pension?')
-    sistema_integrado = str(input())
-    if sistema_integrado == 'si' or sistema_integrado == 'Si':
-        print('Debe sacar (CUIL)')
-        print(f'su edad es {edad} Años')
-    else:
-        print('Realiza alguna prestacion de servicio de la seguridad social de la republica?')
-        ser_social = str(input())
-        if ser_social == 'si' or ser_social == 'Si':
-            print('Debe sacar (CUIL)')
-            print(f'su edad es {edad} Años')
-        else:
-            print(f'su edad es {edad} Años')
-            print('No Debe sacar (CUIL)')
+    diferencia = edad_2 - edad_1
+    print(f'El Hermano mayor es #2 con {edad_2} Años la diferencia es de {diferencia} Años con el primero')
