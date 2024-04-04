@@ -1,38 +1,7 @@
 #11.	Se tiene registrado la producción (unidades) logradas por un operario a lo largo
 #de la semana (lunes a sábado). Elabore un algoritmo
 #que nos muestre o nos diga si el operario recibirá incentivos sabiendo que el promedio de producción mínima es de 100 unidades.
-'''uni_minimas = 100
-print('Ingresar cantidad producción Dia lunes')
-l= int(input())
-if l > uni_minimas :
-    print('el operario recibirá incentivos')
-else:
-    print('Ingresar cantidad producción Dia martes')
-    m= int(input())
-    if (l + m) > uni_minimas :
-        print('el operario recibirá incentivos')
-    else:
-        print('Ingresar cantidad producción Dia miercoles')
-    mr= int(input())
-    if (l + m + mr) > uni_minimas :
-        print('el operario recibirá incentivos')
-    else:
-        print('Ingresar cantidad producción Dia jueves')
-    j= int(input())
-    if (l + m + mr + j) > uni_minimas :
-        print('el operario recibirá incentivos')
-    else:
-        print('Ingresar cantidad producción Dia viernes')
-    v= int(input())
-    if (l + m + mr + j + v) > uni_minimas :
-        print('el operario recibirá incentivos')
-    else:
-        print('Ingresar cantidad producción Dia sabado')
-    s= int(input())
-    if (l + m + mr + j + v + s) > uni_minimas :
-        print('el operario recibirá incentivos')
-    else:
-        print('no')'''
+
 minimo_unidades = 100
 print('Digitar cantidad unidades dia')
 print('Lunes')
