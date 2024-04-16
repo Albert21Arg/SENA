@@ -12,7 +12,7 @@ CREATE TABLE estudiantes (
     primerApellido VARCHAR(20) NOT NULL,
     segundoApellido VARCHAR(20),
     fechaNacimiento DATE NOT NULL,
-    telefono INT(10),
+    telefono INT(11),
     tipoSangre VARCHAR(3) NOT NULL,
     fechaMatricula DATE NOT NULL
 );
@@ -31,7 +31,7 @@ CREATE TABLE padres (
     nombre VARCHAR(20) NOT NULL,
     apellido VARCHAR(20) NOT NULL,
     fechaNacimiento DATE NOT NULL,
-    telefono INT(10) NOT NULL,
+    telefono INT(11) NOT NULL,
     idEstudiante INT,
     FOREIGN KEY (idEstudiante) REFERENCES estudiantes(idEstudiante)
 );
@@ -43,7 +43,7 @@ CREATE TABLE madres (
     nombre VARCHAR(20) NOT NULL,
     apellido VARCHAR(20) NOT NULL,
     fechaNacimiento DATE NOT NULL,
-    telefono INT(10) NOT NULL,
+    telefono INT(11) NOT NULL,
     idEstudiante INT,
     FOREIGN KEY (idEstudiante) REFERENCES estudiantes(idEstudiante)
 );
@@ -55,7 +55,7 @@ CREATE TABLE acudientes (
     nombre VARCHAR(20) NOT NULL,
     apellido VARCHAR(20) NOT NULL,
     fechaNacimiento DATE NOT NULL,
-    telefono INT(10) NOT NULL,
+    telefono INT(11) NOT NULL,
     idEstudiante INT,
     FOREIGN KEY (idEstudiante) REFERENCES estudiantes(idEstudiante)
 );
@@ -79,7 +79,7 @@ CREATE TABLE maestros (
     nombre VARCHAR(20) NOT NULL,
     apellido VARCHAR(20) NOT NULL,
     fechaNacimiento DATE NOT NULL,
-    telefono INT(10) NOT NULL,
+    telefono INT(11) NOT NULL,
     profesion VARCHAR(50) NOT NULL
 );
 
