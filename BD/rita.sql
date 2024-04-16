@@ -18,7 +18,7 @@ CREATE TABLE estudiantes (
 );
 -- Creación de la tabla 'grupos'
 CREATE TABLE grupos (
-    idUsuario INT PRIMARY KEY,
+    idGrupo INT PRIMARY KEY,
     descripcion VARCHAR(50) NOT NULL,
     idEstudiante INT,
     FOREIGN KEY (idEstudiante) REFERENCES estudiantes(idEstudiante)
@@ -115,7 +115,7 @@ CREATE TABLE maestrosGrupos (
     idMaestro INT,
     idGrupo INT,
     FOREIGN KEY (idMaestro) REFERENCES maestros(idMaestro),
-    FOREIGN KEY (idGrupo) REFERENCES grupos(idUsuario)
+    FOREIGN KEY (idGrupo) REFERENCES grupos(idGrupo)
 );
 
 -- Creación de la tabla 'maestroestudiante'
