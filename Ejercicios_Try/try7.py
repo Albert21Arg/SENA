@@ -3,8 +3,8 @@
 bajo peso (menos de 18.5), normal (18.5-24.9), sobrepeso (25-29.9) u obeso (30 o más).'''
 try:
     peso = float(input('Ingrese peso Kilos '))
-    estatura = float(input('Ingrese estatura en Metros'))
-    imc = peso /(estatura * 2)
+    estatura = float(input('Ingrese estatura en Metros '))
+    imc = peso //(estatura * 2)
     print(imc)
     if imc < 18.5 :
         print(f'bajo peso ({imc})')
