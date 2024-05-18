@@ -9,7 +9,7 @@ try:
 
     if primerNumero > segundoNumero and primerNumero > tercerNumero and segundoNumero < primerNumero and tercerNumero < primerNumero:
         print(f'numero 1 {primerNumero} es mayor')         
-
+    
     elif segundoNumero > primerNumero and segundoNumero > tercerNumero and primerNumero < segundoNumero and tercerNumero < segundoNumero:
             print(f'numero 2 {segundoNumero} es mayor')
 
