@@ -47,3 +47,18 @@ lista_de_listas = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(lista_de_listas)
 #Acceder a Elementos de Sublistas
 print(lista_de_listas[0][0])
+#Añadir Sublista
+#Añade una nueva sublista `[10, 11, 12]` usando `append()` y muestra la lista de listas.
+lista_de_listas.append([10, 11, 12])
+print(lista_de_listas)
+#Fusionar dos Listas en Una Nueva Lista
+lista1 = [1, 2, 3]
+lista2 = [4, 5, 6]
+lista1.extend(lista2)
+print(lista1)
+#Lista de Strings para ordenarlos alfabéticamente.
+frutas = ["manzana", "banana", "cereza", "dátil", "fresa"]
+frutas.sort()
+print(frutas)
+#Eliminar todo el contenido de una lista clear()
+lista.clear()
