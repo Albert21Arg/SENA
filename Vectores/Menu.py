@@ -41,10 +41,23 @@ while i == True :
         cantidad[elemento] = ccan
         valor[elemento] = cvalor
         print("---------- Producto Actualizado Correctamente -------")
+    elif opc == 4 :
+        busPro = input("Ingresa producto a Eliminar: ").capitalize()
+        resultado = busPro in producto
 
+        if resultado == True:
+            print("----Producto encontrado----")
+            elemento = producto.index(busPro)
+
+            del producto[elemento]
+            del cantidad[elemento]
+            del valor[elemento]
+
+            print("Producto eliminado Correctamente")
 
     elif opc == 5 :
         i= False  
+        
     elif opc == 6:
         print(f'{producto}{cantidad}{valor}')    
 print('-Salio Correctamente-')
