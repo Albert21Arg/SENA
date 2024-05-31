@@ -6,6 +6,27 @@ try:
     precio = []
     i = True
 
+    def suma_elementos():
+        lista = [1, 2, 3, 4, 5]
+        lista = sum(lista)
+        print(lista)
+
+    def producto_elementos():
+        lista = [1, 2, 3, 4, 5]
+        producto = 1
+        for numero in lista :
+            producto = producto * numero
+            print(producto)
+    def mayor_menor():
+        lista = [1, 2, 3, 4, 5]
+        maximo = max(lista)
+        minimo = min(lista)
+        print(f"maximo en la lista {maximo}")
+        print(f"minimo en la lista {minimo}")  
+    def aparece_numero():
+        lista = [1, 2, 3, 4, 5, 3, 3]
+        lista = lista.count(3)
+        print(lista)
     while i : 
         print('\n Seleccione una opcion: ')
         x = int(input(' 1-- Salir \n 2-- suma de los elementos de la lista \n 3-- producto de todos los elementos de la lista  \n 4-- Cuántas veces aparece el número 3 en la lista \n 5-- Cuál es el valor máximo y mínimo en la lista \n 6-- Cuál es la lista sin duplicados de lista \n 7-- Cuál es la lista después de intercambiar el primer y último elemento de lista\n 8-- Cuál es la lista después de invertir la sublista lista\n 9-- Cuántos números pares e impares hay en la lista lista \n 10-- Cuál es la cadena concatenada de la lista\n 11-- Cuáles números de la lista\n 12-- Cuál es la suma de los elementos de la sublista\n 13-- Cuál es el promedio de los elementos de la lista \n 14-- Cuáles son los números pares en la lista\n 15-- Cuál es la lista de los cuadrados de los números del 1 al 5\n 16-- El número 3 existe en la lista \n 17-- Cuál es la lista resultante de concatenar lista1 = [1, 2, 3] y lista2 = [4, 5, 6]\n 18-- Cuál es la lista de pares ordenados (tuplas) a partir de lista \n 19-- Cuál es la lista con los primeros 5 números naturales \n 20--  Cuál es la lista de palabras en mayúsculas de palabras = ["HoLa", "MUNDO", "pYThon"]\n' ))
@@ -15,28 +36,16 @@ try:
             i=False
 
         elif x == 2:
-            lista = [1, 2, 3, 4, 5]
-            lista = sum(lista)
-            print(lista)
+            suma_elementos()
 
         elif x == 3 : 
-            lista = [1, 2, 3, 4, 5]
-            producto = 1
-            for numero in lista :
-                producto = producto * numero
-                print(producto)
+            producto_elementos()
 
         elif x ==  5 :
-            lista = [1, 2, 3, 4, 5, 3, 3]
-            lista = lista.count(3)
-            print(lista)
+            mayor_menor()
 
         elif x == 4 :
-            lista = [1, 2, 3, 4, 5]
-            maximo = max(lista)
-            minimo = min(lista)
-            print(f"maximo en la lista {maximo}")
-            print(f"minimo en la lista {minimo}") 
+            aparece_numero() 
 
         elif x == 6 :
             lista = [1, 2, 3, 4, 5, 3, 3]  
