@@ -46,10 +46,3 @@ print(minimo)
 palabras = ["HoLa", "MUNDO", "pYThon"]
 lista = [palabra.upper() for palabra in palabras]
 print(lista)
-
-
-        elif x > 21 or x <= 0 :
-             print('Error: Ingresar Valor de la lista. ')
-        
-except:
-    print('Error: Ingresar Valor de la lista. ')
