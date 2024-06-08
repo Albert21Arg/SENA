@@ -10,8 +10,8 @@
 #maximo = max(lista)
 #minimo = min(lista)
 
-print(maximo)
-print(minimo) 
+#print(maximo)
+#print(minimo) 
 #-----------------------------
 #lista = [1, 2, 3, 4, 5, 3, 3]
 #listaOrden = list(set(lista))
