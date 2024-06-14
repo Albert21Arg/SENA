@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="NCYUs6mGyVr-NCvrPmdV" name="Cliente">
-        <mxGraphModel dx="1750" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
+        <mxGraphModel dx="3143" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -237,8 +237,8 @@
             </root>
         </mxGraphModel>
     </diagram>
-    <diagram id="yYjdIZxA2rcI9_X_87y2" name="Página-2">
-        <mxGraphModel dx="1500" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
+    <diagram id="yYjdIZxA2rcI9_X_87y2" name="Empleado">
+        <mxGraphModel dx="2694" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -389,7 +389,7 @@
                 <mxCell id="QE6kr4z7l0-f0nMqWJBg-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2yed9Rmj0u2t1uv5mR7N-7">
                     <mxGeometry x="45" y="890" width="10" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="2yed9Rmj0u2t1uv5mR7N-10" value="Verificarr datos ingresados" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+                <mxCell id="2yed9Rmj0u2t1uv5mR7N-10" value="Verificar datos ingresados" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
                     <mxGeometry width="80" relative="1" as="geometry">
                         <mxPoint x="140" y="140" as="sourcePoint"/>
                         <mxPoint x="1240" y="140" as="targetPoint"/>
