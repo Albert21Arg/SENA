@@ -5,7 +5,7 @@ producto = []
 cantidad = []
 valor = []
 while i == True :
-    print("Menu \n Ingresar \n 1- Crear Producto \n 2--Buscar Producto \n 3--Actualizar Producto \n 4--Eliminar Producto \n 5--Salir")
+    print("Menu \n Ingresa \n 1- Crear Producto \n 2--Buscar Producto \n 3--Actualizar Producto \n 4--Eliminar Producto \n 5--Salir")
     opc = int(input("Ingrese una opcion: "))
     os.system("clear")
     if opc == 1 :

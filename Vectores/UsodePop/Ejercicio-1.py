@@ -2,7 +2,7 @@
 lista = [1, 2, 3, 4, 5]
 print(lista)
 #2 muestra espacio en lista
-print(lista[2])
+print(lista[2])´
 #3 modifica elemento ()
 lista[1] = 10
 print(lista)
@@ -66,7 +66,7 @@ print(elemento_eliminado)
 print(frutas)
 #21 elimina usando "nombrelista".clear()
 frutas.clear()
-print(frutas)
+print(frutas)''
 
 
 
