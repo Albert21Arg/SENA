@@ -1,19 +1,18 @@
-def crear_lista_nombres():
-    return [
-        "Ana", "Carlos", "María", "Luis", "Pedro", "Sofía", "Marta", "José",
-        "Lucía", "Juan", "Elena", "Diego", "Laura", "Javier", "Carmen", "Alberto",
-        "Isabel", "Andrés", "Victoria", "Ricardo"
-    ]
+#Ejercicio 1.-Crear un array unidimensional de 20 elementos con nombres de personas.
+#Visualizar los elementos de la lista debiendo ir cada uno en una fila distinta.
+def creacionUsuarios():
+    for i in range(n):
+        nombre = input (f" Nombre {i + 1}: ")
+        nombres.append(nombre)
 
-def mostrar_nombres(lista):
-    i = 1
-    for nombre in lista :
-        print(f"{i}:  {nombre}")
-        i = i + 1
+def nombreIngresados():
+    print ("\nLista de nombres introducidos:")
+    for nombre in nombres:
+        print(nombre)
 
 if __name__ == '__main__':
-# Crear la lista de nombres
-    nombres = crear_lista_nombres()
-
-# Mostrar los nombres
-    mostrar_nombres(nombres)
+    nombres = []
+    n = int (input ("¿Cuántos nombres deseas introducir? "))
+    usuarios = creacionUsuarios()
+    #resultados = nombreIngresados()
+    print(f"{nombreIngresados()}")
