@@ -15,4 +15,4 @@ if __name__ == '__main__':
     n = int (input ("¿Cuántos nombres deseas introducir? "))
     usuarios = creacionUsuarios()
     #resultados = nombreIngresados()
-    print(f"{nombreIngresados()}")
+    nombreIngresados()
