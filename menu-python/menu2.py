@@ -68,3 +68,4 @@ if __name__ == '__main__':
             x = False
         else:
             print('Fuera de Rango.')
+    print('Salio del programa.')
