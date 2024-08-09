@@ -25,7 +25,7 @@ def ver():
 def actualizar():
     nombre = input('nombre: ')
     if nombre in productos:
-        nombreN = input('Nuevo nombre: ')
+        nombreN = input('Nuevo nombre: ').capitalize()
         cantidad = input('Nueva cantidad: ')
         precio = input('Nuevo precio: ')
 
