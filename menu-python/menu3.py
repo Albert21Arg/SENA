@@ -25,7 +25,7 @@ def ver():
 def actualizar():
     nombre = input('nombre: ')
     if nombre in productos:
-        nombreN = input('Nuevo nombre: ')
+        nombreN = input('Nuevo nombre: ').capitalize()
         cantidad = input('Nueva cantidad: ')
         precio = input('Nuevo precio: ')
 
@@ -58,6 +58,7 @@ if __name__ == '__main__':
         print('1: crear \n2: ver \n3: actualizar \n4: eliminar \n5: salir')
         r = int(input('ingresar una opcion: '))
         os.system('clear')
+        
         if r <= 5 :
             if r == 1:
                 crear()
