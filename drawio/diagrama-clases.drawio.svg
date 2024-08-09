@@ -1,0 +1,1571 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2924px" height="2765px" viewBox="-0.5 -0.5 2924 2765" content="&lt;mxfile&gt;&lt;diagram id=&quot;caMRGNaCk6Caf6VMH_Aw&quot; name=&quot;Clases&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="1267" y="252" width="240" height="202" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 202px; padding-top: 252px; margin-left: 1267px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 202px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Usuario
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + idUsuario
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + username
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + password
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + email
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + tipoRol
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + crearCuenta()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + guardarInformacion()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + continuarCreacionCuenta()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1267" y="264" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Usuario...
+                </text>
+            </switch>
+        </g>
+        <path d="M 947 644 L 947 594 L 1327 594 L 1327 462.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1327 455.12 L 1330.5 462.12 L 1323.5 462.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="827" y="644" width="240" height="378" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 378px; padding-top: 644px; margin-left: 827px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 378px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Clientes
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idCliente : int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombreCliente : varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + primeraApellidoCliente:  varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + segundoApellidoCliente: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + emailCliente: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + numeroTelefonoCliente: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarInformacionCliente()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + actualizarInformacionCliente()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + eliminarCuentaCliente()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarVisita
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + programarVisita
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + eliminarVisita
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarFinca
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarLote
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarAnimal
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + registrarCompraAnimal
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + actualizarCompraAnimal
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + eliminarCompraAnimal
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarHistoriaCompra
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarPrefactura
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + descargarPrefectura
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarHistorialPrefacturas
+                                    <span style="background-color: initial;">
+                                        Cliente
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="827" y="656" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Clientes...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1387 644 L 1387 549 L 1387 462.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1387 455.12 L 1390.5 462.12 L 1383.5 462.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1260.75" y="644" width="252.5" height="528" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 255px; height: 528px; padding-top: 644px; margin-left: 1261px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 253px; height: 528px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Empleados
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        + idEmpleado: int
+                                    </span>
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nuip: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombreEmpleado:  varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + primerApellidoEmpleado: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + segundo
+                                    <span style="background-color: initial;">
+                                        ApellidoEmpleado: varchar
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + fechaNacimientoEmpleado: date
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + fechaContratoEmpleado: date
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + numeroTelefonoEmpleado: int
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + emailEmpleado: varchar
+                                    </span>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + consultarInformacionEmpleado()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + actualizarInformacionEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarInformacionEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarVentaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVentaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarComprarProducto
+                                    <span style="background-color: initial;">
+                                        Empleado
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultar
+                                    <span style="background-color: initial;">
+                                        ComprarProducto
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        Empleado
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeAnimal
+                                    <span style="background-color: initial;">
+                                        Empleado
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarPesajeAnimal
+                                    <span style="background-color: initial;">
+                                        Empleado
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarPesajeAnimal
+                                    <span style="background-color: initial;">
+                                        Empleado
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarClienteEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarClienteEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarVisitaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarFacturaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarFacturaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPagoEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarPagoEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarFincaEmpleado
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarLoteEmpleado
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarAnimalEmpleado
+                                    <span style="background-color: initial;">
+                                        ()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + consultarInventarioEmpleado()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + ingresarProductoInventario()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + sacarProductoInventario()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1261" y="656" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Empleados...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1787 644 L 1787 594 L 1447 594 L 1447 462.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1447 455.12 L 1450.5 462.12 L 1443.5 462.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1667" y="644" width="240" height="538" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 538px; padding-top: 644px; margin-left: 1667px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 538px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Administradores
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idAdministrador: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nuip: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombreAdministrador:  varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + primerApellidoAdministrador: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + segundo
+                                    <span style="background-color: initial;">
+                                        ApellidoAdministrador: varchar
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + fechaNacimientoAdministrador: date
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + fechaContratoAdministrador: date
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + emailAdministrador: varchar
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + numeroTelefonoAdministrador: int
+                                    </span>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerFincaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarEmpleadoLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarEmpleadoLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + crearCuentaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + actualizarEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarEmpleado()
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarInformacionAdministrador()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + actualizarInformacionAdministrador()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarInformacionAdministrador()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + gestonarAnimales()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + gestionarFincas()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + generarReportes()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + gestionarFacturas()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + gestionarClientes()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarPermisosEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarHistorialEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarInventario()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + ingresarProductoInventario()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + sacarProductoInventario()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + resgistrarCompraProducto()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + generarReporteAnimalesPorRaza()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + generarReporteAnimalesPorEdad()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + generarReporteComprasPorFecha()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + generarReporteVentasPorFecha()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1667" y="656" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Administradores...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1513.25 2006 L 1620 2006 L 1620 1804.5 L 1719.01 1804.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1726.01 1804.5 L 1722.51 1806.56 L 1719.01 1804.5 L 1722.51 1802.44 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1273.25" y="1802" width="240" height="408" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 408px; padding-top: 1802px; margin-left: 1273px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 408px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Animales
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idAnimal: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombreAnimal: timestamp
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + pesoAnimalNacimiento:  float
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + razaAnimal: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + sexoAnimal: enum
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaIngresoAnimal : timestamp
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaNacimientoAnimal: date
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + pesoAnimalDestete: float
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + actualizarDatosAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarFincaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerFincaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarLoteAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerLoteAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPesajeAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarCompraAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerCompraAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarAlimentoAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerAlimentoAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + resgitrarVentaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPrefacturaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPrefacturaAnimal()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1273" y="1814" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Animales...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1847 1422 L 1847 1184.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1850.5 1190.12 L 1847 1183.12 L 1843.5 1190.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1790.44 1432 L 1790.5 1342 L 1457 1342 L 1457 1174.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1460.5 1180.12 L 1457 1173.12 L 1453.5 1180.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1727" y="1422" width="240" height="510" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 510px; padding-top: 1422px; margin-left: 1727px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 510px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Fincas
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idFinca: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nit: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombrefinca:  varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombrePriopietarioFinca: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + apellido
+                                    <span style="background-color: initial;">
+                                        PriopietarioFinca: varchar
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + cantidadEmpleadoFinca: int
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + cantidadAnimalFinca: int
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + cantidadHectariasFinca: int
+                                    </span>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + crearFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + leerFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + editarFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarFincas()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + desasignarEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarVisitaFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitaFincas()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarLotesFincas()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + crearLoteFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + dividirFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarAdministradorFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerAdministradorFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + contratarEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + despedirEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerEmpleadoFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + agregarLoteFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarLoteFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerLoteFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + agregarAnimalFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarAnimalFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerAnimalFinca()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1727" y="1434" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Fincas...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2277 2376 L 1957 2376 L 1957 2152 L 1525.24 2152" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1514.24 2152 L 1519.74 2148.76 L 1525.24 2152 L 1519.74 2155.24 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2277" y="2192" width="240" height="368" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 368px; padding-top: 2192px; margin-left: 2277px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 368px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Lotes
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idLote: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaIngresoLote: timestamp
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaSalidaLote:  date
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + tipoLote: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + cantidadAnimalLote: int
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + crearLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + leerLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + actualizarLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarLotes()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarAnimalLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + desasignarAnimalLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarAnimalLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asociarClienteLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerClienteLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarEmpleadoLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarEmpleadoLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerEmpleadoLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarVisitaLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obetnerVisitaLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asociarFincaLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerFincaLote()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2277" y="2204" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Lotes...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2467.32 2190.16 L 2467.5 2072 L 1816 2072 L 1815.81 1942.03" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1815.8 1935.03 L 1817.87 1938.52 L 1815.81 1942.03 L 1813.75 1938.53 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 777 2392 L 777 2129 L 1271.01 2129" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1265.13 2132.5 L 1272.13 2129 L 1265.13 2125.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="657" y="2392" width="240" height="248" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 248px; padding-top: 2392px; margin-left: 657px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 248px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Pesajes
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idPesaje: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaPesaje: timestamp
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + metodoPesaje:  varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + edadAnimal: int
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPesajeAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPesajeLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPesajeFinca()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPesajeVenta()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPesajeVenta()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + calcularPromedioPeso()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="657" y="2404" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Pesajes...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1623.24 2413.16 L 1623 2302 L 1340 2302 L 1340 2220.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1340 2213.12 L 1343.5 2220.12 L 1336.5 2220.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1557" y="2402" width="240" height="180" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 180px; padding-top: 2402px; margin-left: 1557px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 180px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Madres
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + idMadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + nombreMadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + razaMadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + fechaIngresoMadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + fechaNacimientoMadre
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarHijos()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + registrarMadre()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarMadre()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + eliminarMadre()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1557" y="2414" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Madres...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1140.75 2392 L 1141 2186 L 1265.13 2186" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1272.13 2186 L 1265.13 2189.5 L 1265.13 2182.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 2057 1677 L 1974.99 1677" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1967.99 1677 L 1971.49 1674.94 L 1974.99 1677 L 1971.49 1679.06 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 2292 1687 L 2357 1687 L 2357 1718 L 2414.01 1718" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2421.01 1718 L 2417.51 1720.06 L 2414.01 1718 L 2417.51 1715.94 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2057" y="1562" width="235" height="250" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 237px; height: 250px; padding-top: 1562px; margin-left: 2057px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 235px; height: 250px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Inventarios
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + idProducto: int
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + tipoProducto: varchar
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + fechaIngresoProducto: timestamp
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + fechaSalidaProducto: timestamp
+                                        <br/>
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + fechaVencimientoProducto
+                                    </font>
+                                    <span style="background-color: initial;">
+                                        : date
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + cantidadProducto: int
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + crearProducto()
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + obtenerProducto()
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + obtenerTodosLosProductos()
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + actualizarProducto()
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <font style="vertical-align: inherit;">
+                                        + eliminarProducto()
+                                    </font>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + calcularCantidadProducto()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + ingresarProducto()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarSalidaProducto()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2057" y="1574" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Inventarios...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2542 1564 L 2542 1452 L 1969.24 1452" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1975.12 1448.5 L 1968.12 1452 L 1975.12 1455.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2422" y="1564" width="240" height="308" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 308px; padding-top: 1564px; margin-left: 2422px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 308px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Compras
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idCompra: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + tipoProducto: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaListaCompra:  timestamp
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombreEncargado: varchar
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + nombreEmpresa
+                                    <span style="background-color: initial;">
+                                        : varchar
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + nombreAsesorEmpresa: varchar
+                                    </span>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + crearListaComprar()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + leerListaCompra()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + actualizarListaCompra()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + eliminarListaCompra()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarListaCompraEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerListaCompraEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerListaCompraProducto()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarListaCompraProducto()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarListaCompraFactura()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerListaCompraFactura()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asociarListaCompraPago()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerListaCompraPago()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2422" y="1576" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Compras...
+                </text>
+            </switch>
+        </g>
+        <path d="M 797 1397 L 797 1367 L 1007 1367 L 1007 1029.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1007 1022.99 L 1009.06 1026.49 L 1007 1029.99 L 1004.94 1026.49 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 677 1302 L 672 1302 L 672 232 L 2177 232 L 2177 1302 L 1907 1302 L 1907 1414.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1907 1421.01 L 1904.94 1417.51 L 1907 1414.01 L 1909.06 1417.51 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="252" y="1682" width="240" height="160" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 160px; padding-top: 1682px; margin-left: 252px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 160px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Ventas
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idVenta: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + cantidadVenta: int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaVenta:  timestamp
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + obtenerVertaFinca()
+                                    </span>
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarVentaLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerVentaLote()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarVentaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerVentaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="252" y="1694" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Ventas...
+                </text>
+            </switch>
+        </g>
+        <path d="M 617 1492 L 617 1655 L 732 1655 L 732 1826.5 L 1262.38 1826.48" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1269.38 1826.48 L 1265.88 1828.54 L 1262.38 1826.48 L 1265.88 1824.42 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 367 1682 L 367 1367 L 557 1367 L 557 1389.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 557 1396.01 L 554.94 1392.51 L 557 1389.01 L 559.06 1392.51 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="557" y="1302" width="240" height="190" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 190px; padding-top: 1302px; margin-left: 557px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 190px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Pre-facturas
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    +
+                                    <span style="background-color: initial;">
+                                        idPreactura()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        +
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        fechaPrefactura()
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        +
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        descripcionPrefactura()
+                                    </span>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + crearPrefacturaCliente()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPrefacturaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    <span style="background-color: initial;">
+                                        + registrarPrefacturaFinca()
+                                    </span>
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + emitirPrefacturaVenta()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPrefacturaVenta()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPreventaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPreventaAnimal()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="557" y="1314" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Pre-facturas...
+                </text>
+            </switch>
+        </g>
+        <path d="M 372 2402 L 372 1844.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 375.5 1850.12 L 372 1843.12 L 368.5 1850.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="252" y="2402" width="240" height="138" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 138px; padding-top: 2402px; margin-left: 252px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 138px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Comprobantes
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    +
+                                    <span style="background-color: initial;">
+                                        idComprobante
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        +
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        fechaComprobante
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        +
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        metodoPago
+                                    </span>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarPagoVenta()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + obtenerPagoVenta()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + obtenerHistorialPago()
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="252" y="2414" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Comprobantes...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1132 1402 L 1100 1402 L 1100 833 L 1074.99 833" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1067.99 833 L 1071.49 830.94 L 1074.99 833 L 1071.49 835.06 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1371.52 1485.6 L 1727 1487 L 1727 1669.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1727 1676.01 L 1724.94 1672.51 L 1727 1669.01 L 1729.06 1672.51 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1132" y="1324" width="240" height="268" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 268px; padding-top: 1324px; margin-left: 1132px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 268px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Visitas
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + idVisitas : int
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + fechaSolicitadaVisita : date
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + registrarVisitaCliente()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarHistorialVisitaCliente()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitaLoteCliente()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + asignarEmpleadoVisita()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitasAsignadaEmpleado()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitaLote(idLote)
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitasPendientesLote(idLote)
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + agendarVisitasLotes()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + consultarVisitaPendienteAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + agendarVisitaAnimal()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + repogramarVisita()
+                                </p>
+                                <p style="margin: 0px 0px 0px 4px;">
+                                    + cancelarVisita()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1132" y="1336" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Visitas...
+                </text>
+            </switch>
+        </g>
+        <rect x="1020.75" y="2392" width="240" height="200" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 200px; padding-top: 2392px; margin-left: 1021px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 200px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Padres
+                                    </b>
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + idPadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + nombrePadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + razaPadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + fechaIngresoPadre
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + fechaNacimientoPadre
+                                </p>
+                                <hr style="border-style:solid;" size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + registraCasaGeneticaPadre()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + consultarHijos()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + registrarAnimal()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + eliminarAnimal()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + editarAnimal()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1021" y="2404" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Padres...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2 2 L 62 2 L 62 17 L 52 32 L 2 32 Z" fill="#1ba1e2" stroke="#006eaf" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 62 2 L 2922 2 L 2922 2762 L 2 2762 L 2 32" fill="none" stroke="#006eaf" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 17px; margin-left: 3px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                frame
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="32" y="21" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    frame
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
