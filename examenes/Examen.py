@@ -59,7 +59,7 @@ if __name__ == '__main__':
     x = True
     while x == True:
         print(' 1: agregar \n 2: ver \n 3: actualizar \n 4: eliminar \n 5: salir')
-        opc = int(input('selecione una opcion: '))
+        opc = (input('selecione una opcion: '))
          
         if opc == 1:
            agregar_empleados()
