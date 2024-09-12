@@ -15,29 +15,22 @@
                 <li><a href="contactos.html">Contactos</a></li>
                 <li><a href="login.html">Login</a></li>
                 <li><a href="registro.html">Registro</a></li>
-                <li><a href="registro.html">Recordar contraseña</a></li>
+                <li><a href="recordar.html">Recordar contraseña</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <table border="0" ,whideh="210">
-            <tr>
-                <td>
-                    <label for="usuario">Usuario</label>
-                    <input type="text" id="usuario" placeholder="Usuario o correo" name="usuario">
-                </td>
-                <td>
-                    <label for="contraseña">Contraseña</label>
-                    <input type="password" id="contraseña" placeholder="contraseña" name="contraseña">
-                </td>
-                <td>
-                    <button>Inciar sesión</button>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3"><input type="checkbox">Recordarme</td>
-            </tr>
-        </table>
+        <form action="/login" method="post">
+            <label for="usuario">Usuario</label>
+            <input type="text" id="usuario" placeholder="Usuario o correo" name="usuario">
+            <label for="contraseña">Contraseña</label>
+            <input type="password" id="contraseña" placeholder="contraseña" name="contraseña">                        
+            <button type="submit">Ingresar</button>
+            <input type="checkbox">
+            <label for="recordarme">recordarme</label>
+            
+            
+         </form>
     </main>
     <footer>
         <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
