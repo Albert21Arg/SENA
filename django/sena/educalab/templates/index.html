@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>EDUCALAB</h1>
+    <ul>
+        <li>Index</li>
+        <a href="{% url 'saludar' %}"><li>Saludar</li></a>
+        <a href="{% url 'saludo_per' 'Andrea' %}"><li>Saludar a Andrea</li></a>
+        <a href="{% url 'saludo_per' 'Pedro' %}"><li>Saludar a Pedro</li></a>
+        <a href="{% url 'suma' 10 15 %}"><li>Sumar 10 + 15</li></a>
+        
+    </ul>
+</body>
+</html>
