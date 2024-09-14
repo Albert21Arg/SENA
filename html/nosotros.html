@@ -1,58 +1,70 @@
-<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carrito web</title>
 </head>
+
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="productos.html">Novedades</a></li>
-                <li><a href="nosotros.html">Nosotros</a></li>
-                <li><a href="contactos.html">Contactos</a></li>
-                <li><a href="login.html">Login</a></li>
-                <li><a href="registro.html">Registro</a></li>
-                <li><a href="recordar.html">Recordar contraseña</a></li>
-            </ul>
-        </nav>
-    </header>
+    <table border="0" width="80%" align="center">
+        <tr>
+            <thead>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td><aj href="index.html">Inicio</a></td>
+                    <td><a href="productos.html">Productos</a></td>
+                    <td><a href="nosotros.html">Nosotros</a></td>
+                    <td><a href="contactos.html">Contactos</a></td>
+                    <td><a href="login.html">Login</a></td>
+                    <td><a href="registro.html">Registro</a></td>
+                    <td><a href="recordar.html">Recordar contraseña</a></td>
+                </tr>
+                <tr>
+                    <td colspan="7" align="center">
+                        <form action="contacto.py" method="post" style="border: 0px dashed red;"><br><br>
+                            <table >
+                                <tr>
+                                    <td><label for="nombre">Nombre</label></td>
+                                    <td><input id="nombre" type="text" placeholder="Albert Taborda" name="nombre"></td>
+                                </tr>
+                                <tr>
+                                    <td><label for="visita">Fecha y hora visita</label></td>
+                                    <td><input id="visita" name="visita" type="date">
+                                         <input type="time">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><label for="correo">Correo</label></td>
+                                    <td><input id="correo" type="text" placeholder="albert@hotmail.com" name="correo"></td>
+                                </tr>
+                                <tr>
+                                    <td><label for="password">Contraseña</label></td>
+                                    <td><input  id="password" name="password" type="password" placeholder="********"></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" align="center"><button type="submit">Ingresar</button></td>
+                                </tr>
+                            </table>                       
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="7" align="center">
+                        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </tr>
+    </table>
     <main>
-        <h1>Nosotros</h1>
-        <table width="100%" border="0">
-            <tr>
-                <th colspan="3">¿Quiénes Somos?</th>
-            </tr>
-            <tr>
-                <td><img src="https://via.placeholder.com/150" width="50" height="50" alt=""></td>
-                <td colspan="2">
-                    <p>Somos una empresa líder proveedora a nivel nacional en el mercado de dispositivos inteligentes. Llevamos más de 20 años de experiencia prestando servicio de venta de celulares libres en Medellín y en el resto del país. Manejamos las marcas más reconocidas a nivel mundial y distribuimos teléfonos celulares Xiaomi en Medellín. Manejamos una plataforma completamente actualizada de precios, noticias y artículos de interés de actualidad. Manejamos distribución de todas las marcas reconocidas a nivel mundial; Apple, Asus, Caterpillar, Huawei, LG, Motorola, Samsung, Vivo, Xiaomi. Nos enfocamos principalmente en la marca Xiaomi como aliados de una de las más grandes compañías de tecnología.</p>
-                </td>                
-            </tr>
-            <tr>
-                <th colspan="3">Misión</th>
-            </tr>
-            <tr>
-                <td><img src="https://via.placeholder.com/150" width="50" height="50" alt=""></td>
-                <td colspan="2">
-                    <p>Distribuimos celulares libres en Medellín y en el resto del país, lo hacemos mediante diferentes plataformas como lo es nuestro sitio web, nuestras redes sociales y nuestra tienda física ubicada en la Terminal del sur Local 026. La empresa surgió de la necesidad de llegar a las personas de diferentes lugares con nuestros productos a precios increíbles sin la necesidad de intermediarios para poder garantizar un precio más bajo de lo normal.</p>
-                </td>                
-            </tr>
-            <tr>
-                <th colspan="3">Visión</th>
-            </tr>
-            <tr>
-                <td><img src="https://via.placeholder.com/150" width="50" height="50" alt=""></td>
-                <td colspan="2">
-                    <p>Lograr llegar a diferentes ciudades del país y continuar fortaleciendo nuestra imagen, cada vez son mas personas las que pertenecen a esta familia Los Distribuidores y eso es lo que queremos lograr a futuro.</p>
-                </td>                
-            </tr>
-        </table>
+
     </main>
     <footer>
-        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+        
     </footer>
 </body>
-</html>

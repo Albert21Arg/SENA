@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -7,7 +8,7 @@
 </head>
 
 <body>
-    <table border="0" width="80%" align="center">
+    <table border="1" width="80%" align="center">
         <tr>
             <thead>
 
@@ -24,16 +25,14 @@
                 </tr>
                 <tr>
                     <td colspan="7" align="center">
-                        <form action="contacto.py" method="post" style="border: 0px dashed red;">
-                            <label for="nombre">Nombre</label><br>
-                            <input id="nombre" type="text" placeholder="Albert Taborda" name="nombre"><br>
-                            <label for="nacimiento">Fecha nacimiento</label><br>
-                            <input id="nacimiento" name="nacimiento" type="date"><br>
-                            <label for="correo">Correo</label><br>
-                            <input id="correo" type="email" placeholder="albert@hotmail.com" name="correo"><br>
-                            <label for="password">Contraseña</label><br> 
-                            <input  id="password" name="password" type="password" placeholder="********"><br>                    
-                            <button type="submit">Ingresar</button>
+                        <form action="contacto.py" method="post" style="border: 1px dashed red;">
+                            <label for="nombre">Nombre:</label><br>
+                            <input type="text" placeholder="Nombre" id="nombre" name="nombre"><br><br>
+                            <label for="email">Correo electrónico</label><br>
+                            <input type="text" placeholder="Usuario@gmail.com" id="email" name="email"><br><br>
+                            <label for="comentario" i>Cuentanos tu duda</label><br>
+                            <textarea id="comentario" name="comentario">Cual es tu motivo de consulta.</textarea><br>
+                            <button type="submit">Enviar</button>
                         </form>
                     </td>
                 </tr>
@@ -54,3 +53,5 @@
         
     </footer>
 </body>
+
+</html>
