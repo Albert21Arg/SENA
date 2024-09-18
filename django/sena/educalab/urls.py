@@ -10,8 +10,4 @@ urlpatterns = [
     path("suma/<int:num1>/<int:num2>/", views.suma, name="suma"),
     path("suma_formulario/", views.suma_formulario , name="suma_formulario"),
     path("procesar_suma/", views.procesar_suma , name="procesar_suma"),
-    path("registrarse/", views.registrarse, name="registrarse"),
-    path("registro/", views.registro , name="registro"),
-    path("logearse/", views.logearse , name="logearse"),
-    path("login/", views.login , name="login"),
 ]
