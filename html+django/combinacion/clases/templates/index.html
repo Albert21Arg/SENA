@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito web</title>
+</head>
+
+<body>
+    <main>
+        <table border="0" , width=80% align="center">
+            <tr>
+                <thead>
+                    <td><a href="{% url 'index' %}">Inicio</a></td>
+                    <td><a href="{% url 'productos' %}">Productos</a></td>
+                    <td><a href="{% url 'nosotros' %}">Nosotros</a></td>
+                    <td><a href="{% url 'contactos' %}">Contactos</a></td>
+                    <td><a href="{% url 'login' %}">Login</a></td>
+                    <td><a href="{% url 'registro' %}">Registro</a></td>
+                    <td><a href="{% url 'restaurar' %}">Recordar contraseña</a></td>
+                </thead>
+            </tr>
+            <tr>
+                <td colspan="7" align="center">
+                    <h1>Bienvenido a la </h1>
+                    <p>Últimas noticias sobre smartphones, Android y iPhone, características y análisis.</p>
+                    <hr>
+                    <h2>¡Explora el Futuro de la Tecnología Móvil!</h2>
+                    <p>¿Estás listo para descubrir la última generación de teléfonos celulares? En <span
+                            style="color :blue">Tienda de Celulares</span>, te ofrecemos una selección exclusiva de los
+                        modelos más innovadores y de mayor rendimiento del mercado.<br> Desde los últimos smartphones
+                        hasta modelos clásicos y accesibles, tenemos el celular perfecto para ti.</p>
+                    <hr> <!-- de esta manera se representan los comentarios den html-->
+                    <img src="https://www.losdistribuidores.com/wp-content/uploads/2024/04/los-distribuidores-local-futurista-1920-600.webp"
+                        width="100%" height="400" alt="">
+                </td>
+            </tr>
+            <tr cols>
+                <td colspan="2" align="center">
+                    <p>iPhone</p>
+                    <h3>iPhone 13 Pro Max 512GB Exhibición</h3>
+                    <a href=""><img
+                            src="https://www.losdistribuidores.com/wp-content/uploads/2021/02/iphone_11_2-300x300.jpg"
+                            alt=""></a><br>
+                    <h3>$3.200.000</h3>
+                    <label for="cantidad">Cantidad</label>
+                    <input type="number" placeholder="0" style="width: 35px;"><br><br>
+                    <button type="submit">Comprar</button><br><br>
+                </td>
+                <td colspan="3" align="center">
+                    <p>iPhone</p>
+                    <h3>iPhone 13 Pro Max 512GB Exhibición</h3>
+                    <a href=""><img
+                            src="https://www.losdistribuidores.com/wp-content/uploads/2021/02/iphone_11_2-300x300.jpg"
+                            alt=""></a>
+                    <h3>$3.200.000</h3>
+                    <label for="cantidad">Cantidad</label>
+                    <input type="number" placeholder="0" style="width: 35px;"><br><br>
+                    <button type="submit">Comprar</button><br><br>
+                </td>
+                <td colspan="2" align="center">
+                    <p>iPhone</p>
+                    <h3>iPhone 13 Pro Max 512GB Exhibición</h3>
+                    <a href=""><img
+                            src="https://www.losdistribuidores.com/wp-content/uploads/2021/02/iphone_11_2-300x300.jpg"
+                            alt=""></a>
+                    <h3>$3.200.000</h3>
+                    <label for="cantidad">Cantidad</label>
+                    <input type="number" placeholder="0" style="width: 35px;"><br><br>
+                    <button type="submit">Comprar</button><br><br>
+                </td>
+            </tr>
+            <tfoot>
+                <tr>
+                    <td colspan="7" align="center">
+                        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+
+</html>
