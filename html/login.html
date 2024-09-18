@@ -1,39 +1,56 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carrito web</title>
 </head>
+
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="productos.html">Novedades</a></li>
-                <li><a href="nosotros.html">Nosotros</a></li>
-                <li><a href="contactos.html">Contactos</a></li>
-                <li><a href="login.html">Login</a></li>
-                <li><a href="registro.html">Registro</a></li>
-                <li><a href="recordar.html">Recordar contraseña</a></li>
-            </ul>
-        </nav>
-    </header>
+    <table border="0" width="80%" align="center">
+        <tr>
+            <thead>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="index.html">Inicio</a></td>
+                    <td><a href="productos.html">Productos</a></td>
+                    <td><a href="nosotros.html">Nosotros</a></td>
+                    <td><a href="contactos.html">Contactos</a></td>
+                    <td><a href="login.html">Login</a></td>
+                    <td><a href="registro.html">Registro</a></td>
+                    <td><a href="recordar.html">Recordar contraseña</a></td>
+                </tr>
+                <tr>
+                    <td colspan="7" align="center">
+                        <form action="contacto.py" method="post" style="border: 0px dashed red;">
+                            
+                            <label for="email">Correo electrónico</label><br>
+                            <input type="text" placeholder="Usuario@gmail.com" id="email" name="email"><br><br>
+                            <label for="pass">Contraseña:</label><br>
+                            <input type="password" placeholder="*******" id="pass" name="pass"><br><br>
+                            <button type="submit">Ingresar</button>
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="7" align="center">
+                        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </tr>
+    </table>
     <main>
-        <form action="/login" method="post">
-            <label for="usuario">Usuario</label>
-            <input type="text" id="usuario" placeholder="Usuario o correo" name="usuario">
-            <label for="contraseña">Contraseña</label>
-            <input type="password" id="contraseña" placeholder="contraseña" name="contraseña">                        
-            <button type="submit">Ingresar</button>
-            <input type="checkbox">
-            <label for="recordarme">recordarme</label>
-            
-            
-         </form>
+
     </main>
     <footer>
-        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+        
     </footer>
 </body>
+
 </html>

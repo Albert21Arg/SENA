@@ -1,57 +1,57 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carrito web</title>
 </head>
+
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="productos.html">Novedades</a></li>
-                <li><a href="nosotros.html">Nosotros</a></li>
-                <li><a href="contactos.html">Contactos</a></li>
-                <li><a href="login.html">Login</a></li>
-                <li><a href="registro.html">Registro</a></li>
-                <li><a href="recordar.html">Recordar contraseña</a></li>
-            </ul>
-        </nav>
-    </header>
+    <table border="0" width="80%" align="center">
+        <tr>
+            <thead>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="index.html">Inicio</a></td>
+                    <td><a href="productos.html">Productos</a></td>
+                    <td><a href="nosotros.html">Nosotros</a></td>
+                    <td><a href="contactos.html">Contactos</a></td>
+                    <td><a href="login.html">Login</a></td>
+                    <td><a href="registro.html">Registro</a></td>
+                    <td><a href="recordar.html">Recordar contraseña</a></td>
+                </tr>
+                <tr>
+                    <td colspan="7" align="center">
+                        <form action="contacto.py" method="post" style="border: 0px dashed red;">
+                            <label for="nombre">Nombre:</label><br>
+                            <input type="text" placeholder="Nombre" id="nombre" name="nombre"><br><br>
+                            <label for="email">Correo electrónico</label><br>
+                            <input type="text" placeholder="Usuario@gmail.com" id="email" name="email"><br><br>
+                            <label for="comentario" i>Cuentanos tu duda</label><br>
+                            <textarea id="comentario" name="comentario">Cual es tu motivo de consulta.</textarea><br>
+                            <button type="submit">Enviar</button>
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="7" align="center">
+                        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </tr>
+    </table>
     <main>
-        <table width="100%", border="0">
-            <tr>
-                <th><h2>Estamos ubicados</h2></th>
-                <th><h2>Nuestras redes</h2></th>
-            </tr>
-            <tr>
-                <td><img src="https://via.placeholder.com/400" width="100%" height="400px" alt=""></td>
-                <td>
-                    <ul>
-                        <li>
-                            <img src="https://via.placeholder.com/400" width="25%" height="45px" alt="">
-                            <p><a href="#">Facebook</a></p>
-                        </li>
-                        <li>
-                            <img src="https://via.placeholder.com/400" width="25%" height="45px" alt="">
-                            <p><a href="#">Instagram</a></p>
-                        </li>
-                        <li>
-                            <img src="https://via.placeholder.com/400" width="25%" height="45px" alt="">
-                            <p><a href="#">WhatsApp</a></p>
-                        </li>
-                        <li>
-                            <img src="https://via.placeholder.com/400" width="25%" height="45px" alt="">
-                            <p><a href="#">Tik Tok</a></p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-        </table>
+
     </main>
     <footer>
-        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+        
     </footer>
 </body>
+
 </html>
