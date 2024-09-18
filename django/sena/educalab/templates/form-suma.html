@@ -1,0 +1,12 @@
+<form action="{% url 'procesar_suma' %}" method="post">
+    {% csrf_token %}
+    <label>Número 1:</label>
+    <input type="number" name="num1" required="" />
+    <br/>
+    <label>Número 2:</label>
+    <input type="number" name="num2" required="" />
+    <br/>
+    <button type="submit">Calcular</button>
+    <button type="reset">Borrar</button>
+</form>
+

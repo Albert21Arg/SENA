@@ -1,0 +1,22 @@
+<form action="{% url 'registro' %}" method="post" style="width: 100%;">
+    {% csrf_token %}
+    <Table  width="100%" >
+        <tr>
+            <td align="center">
+                <input type="text" name="nombre" id="nombre" placeholder="Ingresa tu nombre" required="">
+            </td>            
+        </tr>
+        <tr>
+            <td align="center">
+                <input type="tel" name="telefono" id="telefono" placeholder="numero telefono" required="">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <button type="submit">Registrarse</button>
+            </td>  
+        </tr>
+       
+    </Table>
+</form>
+

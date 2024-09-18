@@ -1,0 +1,17 @@
+<form action="{% url 'login' %}" method="post">
+    {% csrf_token %}
+    <Table border="1px solid black">
+        <tr>
+            <td>
+                <input type="text" name="usuario" id="usuario" placeholder="Usuario" required=""><br>
+            </td>
+            <td>
+                <input type="password" name="contra" id="contra" placeholder="********" required=""><br>
+            </td>
+            <td>
+                <button type="submit">Registrarse</button>
+            </td>
+        </tr>
+    </Table>
+</form>
+
