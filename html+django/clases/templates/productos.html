@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito web</title>
+</head>
+
+<body>
+    <main>
+        <table border="0" , width=80% align="center">
+            <tr>
+                <thead>
+                    <td><a href="{% url 'index' %}">Inicio</a></td>
+                    <td><a href="{% url 'productos' %}">Productos</a></td>
+                    <td><a href="{% url 'nosotros' %}">Nosotros</a></td>
+                    <td><a href="{% url 'contactos' %}">Contactos</a></td>
+                    <td><a href="{% url 'login' %}">Login</a></td>
+                    <td><a href="{% url 'registro' %}">Registro</a></td>
+                    <td><a href="{% url 'restaurar'%}">Recordar contraseña</a></td>
+                </thead>
+            </tr>
+            <tr>
+                <td colspan="7" align="center">
+                    <h1>Productos</h1>
+                </td>
+            </tr>
+            <tr cols>
+                <td colspan="2" align="center">
+                    <form action="" method="post">
+                        <p>iPhone</p>
+                        <h3>iPhone 13 Pro Max 512GB Exhibición</h3>
+                        <a href=""><img
+                                src="https://www.losdistribuidores.com/wp-content/uploads/2021/10/iphone-13-pro-1-300x300.jpg"
+                                alt=""></a><br>
+                        <h3>$3.200.000</h3>
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" placeholder="0" style="width: 35px;"><br><br>
+                        <button type="submit">Comprar</button><br><br>
+                    </form>
+                </td>
+                <td colspan="3" align="center">
+                    <form action="carrito/" method="post">
+                        <p>iPhone</p>
+                        <h3>iPhone 13 Pro Max 512GB Exhibición</h3>
+                        <a href=""><img
+                                src="https://www.losdistribuidores.com/wp-content/uploads/2021/10/iphone-13-1-300x300.jpg"
+                                alt=""></a>
+                        <h3>$3.200.000</h3>
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" placeholder="0" style="width: 35px;"><br><br>
+                        <button type="submit">Comprar</button><br><br>
+                    </form>
+                </td>
+                <td colspan="2" align="center">
+                    <form action="carrito/" method="post">
+                        <p>iPhone</p>
+                        <h3>iPhone 13 Pro Max 512GB Exhibición</h3>
+                        <a href=""><img
+                                src="https://www.losdistribuidores.com/wp-content/uploads/2021/10/iphone-13-pro-1-300x300.jpg"
+                                alt=""></a>
+                        <h3>$3.200.000</h3>
+                        <label for="cantidad">Cantidad</label>
+                        <input type="number" placeholder="0" style="width: 35px;"><br><br>
+                        <button type="submit">Comprar</button><br><br>
+                    </form>
+                </td>
+            </tr>
+            <tfoot>
+                <tr>
+                    <td colspan="7" align="center">
+                        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+
+</html>

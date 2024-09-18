@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito web</title>
+</head>
+
+<body>
+    <table border="0" width="80%" align="center">
+        <tr>
+            <thead>
+
+            </thead>
+            <tbody>
+                <thead>
+                    <td><a href="{% url 'index' %}">Inicio</a></td>
+                    <td><a href="{% url 'productos' %}">Productos</a></td>
+                    <td><a href="{% url 'nosotros' %}">Nosotros</a></td>
+                    <td><a href="{% url 'contactos' %}">Contactos</a></td>
+                    <td><a href="{% url 'login' %}">Login</a></td>
+                    <td><a href="{% url 'registro' %}">Registro</a></td>
+                    <td><a href="{% url 'restaurar'%}">Recordar contraseña</a></td>
+                </thead>
+                <tr>
+                    <td colspan="7" align="center">
+                        <form action="contacto.py" method="post" style="border: 0px dashed red;">
+                            
+                            <label for="email">Correo electrónico</label><br>
+                            <input type="text" placeholder="Usuario@gmail.com" id="email" name="email"><br><br>
+                            <label for="pass">Contraseña:</label><br>
+                            <input type="password" placeholder="*******" id="pass" name="pass"><br><br>
+                            <button type="submit">Ingresar</button>
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="7" align="center">
+                        <p>&copy; 2024 Carrito Web. Todos los derechos reservados.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </tr>
+    </table>
+    <main>
+
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+
+</html>
