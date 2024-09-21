@@ -8,4 +8,4 @@ class EstudianteAdmin(admin.ModelAdmin):
     list_display= ["id","nombre","email","grado","fecha_nacimiento"]
     search_fields= ["nombre"]
     list_filter = ["fecha_nacimiento","grado"]
-    list_editable= ["grado", "fecha_nacimiento"]
+    
