@@ -22,3 +22,12 @@ def procesar_suma(request):
         num1 = int(request.POST.get("num1", 0))
         num2 = int(request.POST.get("num2", 0))
         return HttpResponse(f"Resultado: {num1 + num2}")
+
+def registro(request):
+    if request.method == "POST":
+        nombre = str(request.POST.get("nombre"))
+        correo = str(request.POST.get("correo"))
+        return render(f"se creo corretamente: {nombre} con correo {correo}")
+    else:
+        # Manejar el caso GET
+        return render(request, 'registro.html')

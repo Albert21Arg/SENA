@@ -1,0 +1,9 @@
+<H1>Registro</H1>
+<form action="{% url 'registro' %}" method="post">
+    {% csrf_token %}
+    <label for="nombre">Nombre</label>
+    <input type="text" id="nombre" name="nombre" required="" placeholder="Albert">
+    <label for="correo">Correo Electronico</label>
+    <input type="email" id="correo" name="correo" required="" placeholder="usuario.@gmail.com">
+    <button type="submit">Crear</button>
+</form>
