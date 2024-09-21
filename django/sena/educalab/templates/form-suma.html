@@ -1,4 +1,3 @@
-<h1>Calculadora</h1>
 <form action="{% url 'procesar_suma' %}" method="post">
     {% csrf_token %}
     <label>Número 1:</label>
@@ -10,3 +9,4 @@
     <button type="submit">Calcular</button>
     <button type="reset">Borrar</button>
 </form>
+
